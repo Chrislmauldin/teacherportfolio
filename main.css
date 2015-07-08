@@ -1,0 +1,310 @@
+body {
+	position: relative;
+	background-color: #a8f293;
+	background: url("http://hdwallpapersfit.com/wp-content/uploads/2015/03/costa-rica-hd-wallpapers.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+/*-----NAVIGATIONS-----*/
+.navbar {
+	height: 50px;
+	background-color: transparent;
+	transition: background .5s ease-in-out,padding .5s ease-in-out;
+}
+.top-nav-collapse {
+	height: 50px;
+	background-color: black;
+}
+.navbar-header {
+	font-family: Rock Salt;
+	text-shadow: 2px 2px 5px black;
+}
+a {
+	color: #ab82ff;
+	font-weight: 700;
+	text-shadow: 2px 2px 5px black;
+}
+.nav > li > a:hover {
+	color: #ab82ff;
+	background-color: transparent;
+	font-size: 1.12em;
+}
+ul.nav {
+	font-family: Rock Salt;
+	font-weight: 700;
+}
+
+
+/*-----HEADER------*/
+.intro {
+	text-align: center;
+	height: 700px;
+}
+.intro-body {
+	position: relative;
+	top: 180px;
+}
+.square {
+	display: inline-block;
+	position: relative;
+	bottom: 315px;
+	right: 130px;
+	width: 1000px;
+	height: 325px;
+	background-color: white;
+	opacity: 0.2;
+	border-radius: 10px;
+}
+.brand-heading {
+	display: inline-block;
+	font-size: 5em;
+	font-family: Rock Salt;
+	font-weight: 600;
+	color: #ab82ff;
+}
+p {
+	display: inline-block;
+	font-size: 1.7em;
+	font-family: shadows into light;
+	color: white;
+}
+/*------Bio-section-----*/
+section#bio {
+	height: 1800px;
+	width: 100%;
+	text-align: center;
+}
+img.bebright {
+	height: 450px;
+	width: 325px;
+	border-radius: 100%;
+}
+.personal-info {
+	list-style: none;
+	font-family: shadows into light;
+	color: white;
+	font-size: 1.4em;
+}
+.personal-info > li {
+	margin: 5px;
+}
+hr {
+	width: 50%;
+}
+.row-two {
+	height: 900px;
+	width: 1030px;
+	margin-top: 30px;
+	margin-left: 100px;
+
+}
+.col-md-4 {
+	width: 30%;
+	height: 800px;
+}
+.diagonal {
+	position: relative;
+	bottom: 180px;
+	left: 90px;
+}
+.square-two {
+	position: relative;
+	bottom: 1825px;
+	right: 45px; 
+	height: 1700px;
+	width: 1000px;
+	background-color: white;
+	opacity: 0.2;
+	border-radius: 10px;
+}
+/*-------methods--------*/
+section#methods {
+	height: 1500px;
+	width: 100%;
+	text-align: center;
+}
+.methods-heading {
+	display: inline-block;
+	font-size: 5em;
+	font-family: Rock Salt;
+	font-weight: 600;
+	color: #ab82ff;
+}
+.description {
+	width: 600px;
+	margin: 10px auto;
+}
+.student-standing {
+	width: 450px;
+	margin: 5px auto;
+	border: 1px solid white;
+	border-radius: 10px;
+	font-weight: 700;
+	text-align: center;
+	padding-right: 10px;
+}
+.col-md-6#col-one {
+	width: 490px;
+	height: 500px;
+	text-align: center;
+	margin-left: 125px;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white;
+}
+h2 {
+	font-family: Rock Salt;
+	color: #ab82ff;
+}
+h3 {
+	font-family: shadows into light;
+	color: white;
+	font-weight: 600;
+	font-size: 2em;
+}
+ul.list {
+	font-family: zeyada;
+	color: white;
+	list-style: none;
+	font-size: 1.5em;
+}
+
+.col-md-6#col-two {
+	width: 490px;
+	height: 500px;
+	text-align: center;
+	border-bottom: 1px solid white;
+}
+
+.col-md-8#r4 {
+	margin-left: 125px;
+	width: 990px;
+	height: 500px;
+}
+.signup {
+	display: inline-block;
+	position: relative;
+	height: 40px;
+	width: 120px;
+	background-color: #ab82ff;
+	top: 80px;
+	border-radius: 3px;
+}
+.signup:hover {
+	box-shadow: 2px 2px 5px black;
+}
+.signup#sg {
+	display: inline-block;
+	position: relative;
+	height: 40px;
+	width: 120px;
+	background-color: #ab82ff;
+	top: 33px;
+	border-radius: 3px;
+}
+.signup#sg:hover {
+	box-shadow: 2px 2px 5px black;
+}
+span {
+	color: white;
+	text-shadow:none;
+	position: relative;
+	top: 10px;
+}
+.square-three {
+	position: relative;
+	bottom: 810px;
+	left: 115px;
+	height: 1800px;
+	width: 1000px;
+	background-color: white;
+	opacity: 0.2;
+	border-radius: 10px;
+}
+/*-------Gallery----------*/
+section#gallery {
+	height: 3000px;
+	width: 100%;
+	text-align: center;
+}
+.gallery-heading {
+	display: inline-block;
+	font-size: 5em;
+	font-family: Rock Salt;
+	font-weight: 600;
+	color: #ab82ff;
+	margin-top: 100px;
+}
+#blog:hover {
+	text-decoration: none;
+	color: white;
+	font-size: 1.2em;
+}
+.container-fluid {
+	width: 1000px;
+	height: 2300px;
+	margin-top: 50px;
+}
+img {
+	margin: 10px;
+	border-radius: 3px;
+	border: 1px solid white;
+}
+/*--------Register--------*/
+section#register {
+	width: 100%;
+	height: 600px;
+	text-align: center;
+}
+.register-heading {
+	display: inline-block;
+	font-size: 5em;
+	font-family: Rock Salt;
+	font-weight: 600;
+	color: #ab82ff;
+}
+
+label {
+	font-family: shadows into light;
+	color: white;
+	font-size: 1.3em;
+	display: inline-block;
+}
+
+.uno {
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+textarea {
+	margin-left: 120px;
+	height: 100px;
+}
+/*------contact-------*/
+section#contact {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	margin: 0;
+}
+.contact-header {
+	display: inline-block;
+	margin-left: 20px;
+}
+.contactstuff {
+	display: inline-block;
+	position: absolute;
+	right: 20px;
+	font-family: Rock salt;
+	color: #ab82ff;
+}
+#la {
+	margin-right: 10px;
+}
+.profile_img {
+	width: 32px;
+	height: 32px;
+	border-radius: 25px;
+}
+
+
+
